@@ -98,6 +98,7 @@ Go to Repos section of Azure DevOps and click on _Import a repository_:
 Now paste your github link and import.
 
 You can also push from your local repo is you want:
+
 ![](/readmeimages/Aspose.Words.90fd5c1b-757c-4a76-a5f6-38650d269967.021.png)
 
 ![](/readmeimages/Aspose.Words.90fd5c1b-757c-4a76-a5f6-38650d269967.022.png)
@@ -134,6 +135,7 @@ We will also add publish build artifact task :
 ![](/readmeimages/Aspose.Words.90fd5c1b-757c-4a76-a5f6-38650d269967.031.png)
 
 Finally we will have the whole code:
+
 ![](/readmeimages/Aspose.Words.90fd5c1b-757c-4a76-a5f6-38650d269967.032.png)
 
 It will be saved in the Azure repo, but i will also add it in the github repo for future reference.
